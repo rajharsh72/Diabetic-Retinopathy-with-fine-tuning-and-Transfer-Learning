@@ -20,7 +20,9 @@
 # 2.	Things done in this repository. 
     •	I’ve used the pre-trained models i.e. VGG-19 , MobileNet v2 , ResNet50 , VGG-16 on the dataset containing the Iris Images having various abnormalities 
         like Glucomatic or having Achrima. 
+        I've added some more CNN layers i.e. Inception layer and Global Average Pooling
     •	I’ve compared the accuracy , loss and Mean Absolute Error of all the different models.
+    
 
 
 
